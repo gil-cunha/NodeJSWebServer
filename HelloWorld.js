@@ -4,5 +4,5 @@ const server = http.createServer(function(request, respose){
     respose.write('<html><body><h1>Olá, Mundo</h1></body></html>');
     respose.end();
 });
-server.listen(300);
+server.listen(3000);
 console.log('Servidor Node.js em execução');

@@ -1,0 +1,23 @@
+{
+  "name": "nodejswebserver",
+  "version": "1.0.0",
+  "description": "my first NodeJS app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gil-cunha/NodeJSWebServer.git"
+  },
+  "keywords": [
+    "pw",
+    "node"
+  ],
+  "author": "Gil Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gil-cunha/NodeJSWebServer/issues"
+  },
+  "homepage": "https://github.com/gil-cunha/NodeJSWebServer#readme"
+}
