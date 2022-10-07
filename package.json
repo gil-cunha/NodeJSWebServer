@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/gil-cunha/NodeJSWebServer/issues"
   },
-  "homepage": "https://github.com/gil-cunha/NodeJSWebServer#readme"
+  "homepage": "https://github.com/gil-cunha/NodeJSWebServer#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
 }
